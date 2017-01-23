@@ -1,4 +1,4 @@
-###########################################################################################################  
+######################################################################################################### 
 
 #volttron-echo
 Amazon Echo–Volttron
@@ -9,7 +9,7 @@ The Toggle Demoboard skill makes changes to the device shadow state , located in
 and aws_shadow listens for the deltas. When a delta is heard, the aws_shadow is triggers the 
 actuator method to turn on/off devices on the demoboard.  
 
-############################################################################################################
+###########################################################################################################
 
 # AWS_Shadow agent
 # aws_shadow.py
